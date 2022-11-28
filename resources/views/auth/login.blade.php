@@ -24,6 +24,7 @@
                         </div>
                         <div class="form-group mt-3">
                             <input type="submit" class="btn btn-success" value="Login">
+                            <a href="register" class="btn btn-primary">Register</a>
                         </div>
                         @csrf
                     </form>
